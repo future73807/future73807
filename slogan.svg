@@ -15,7 +15,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            活的像个旁观者,会轻松很多.
+            &nbsp;活的像个旁观者,会轻松很多.
         </textPath>
     </text>
     <path id='path1'>
@@ -29,7 +29,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            再等等,山南水北,我一定陪你去.
+            &nbsp;再等等,山南水北,我一定陪你去.
         </textPath>
     </text>
     <path id='path2'>
@@ -43,7 +43,7 @@
         x='0%' text-anchor='start'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            风雨里做个大人,阳光下做个孩子.
+            &nbsp;风雨里做个大人,阳光下做个孩子.
         </textPath>
     </text>
 </svg>
