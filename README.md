@@ -2,7 +2,10 @@
 <table>
   <tr>
     <td valign="top">
-<!--       <img src="https://readme-typing-svg.demolab.com/?lines=活的像个旁观者,会轻松很多.;再等等,山南水北,我一定陪你去.;风雨里做个大人,阳光下做个孩子." alt="Typing SVG" /><br/> -->
+      <!-- 顶部空间 -->
+      <div>&nbsp;</div>
+      <!-- 左侧空间 + 图片 -->
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="/slogan.svg" alt="Typing SVG" /><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future73807&layout=compact&hide_border=true&langs_count=10" alt="future's Most used languages" />
     </td>
@@ -11,4 +14,3 @@
     </td>
   </tr>
 </table>
-
