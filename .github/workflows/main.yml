@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.SU_TOKEN }}
 
           # Options
-          user: Peter-JXL
+          user: future73807
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
