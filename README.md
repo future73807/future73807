@@ -5,7 +5,7 @@
       <!-- 顶部空间 -->
       <div>&nbsp;</div>
       <!-- 左侧空间 + 图片 -->
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;
       <img src="/slogan.svg" alt="Typing SVG" /><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future73807&layout=compact&hide_border=true&langs_count=10" alt="future's Most used languages" />
     </td>
