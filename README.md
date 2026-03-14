@@ -1,4 +1,5 @@
 <!--[![future's GitHub stats](https://github-readme-stats.vercel.app/api?username=future73807)](https://github.com/anuraghazra/github-readme-stats)-->
+![future73807's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=future73807&theme=github-compact)
 <table>
   <tr>
     <td valign="top">
